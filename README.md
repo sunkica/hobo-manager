@@ -1,1 +1,1 @@
-# hobo-manager
+# Hobo Manager
